@@ -2,12 +2,6 @@
 
 The Fixed Market App is a financial utility application built to help users perform calculations related to the fixed market, including cash flows, bond prices, simple interest rates, and compound interest rates.
 
-## Features
-
-- Calculate cash flows for fixed market instruments.
-- Estimate bond prices based on various parameters.
-- Compute simple interest rates for investment analysis.
-- Determine compound interest rates for savings calculations.
 
 ## Table of Contents
 
@@ -15,6 +9,13 @@ The Fixed Market App is a financial utility application built to help users perf
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+
+## Features
+
+- Calculate cash flows for fixed market instruments.
+- Estimate bond prices based on various parameters.
+- Compute simple interest rates for investment analysis.
+- Determine compound interest rates for savings calculations.
 
 ## Installation
 
