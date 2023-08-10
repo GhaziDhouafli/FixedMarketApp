@@ -36,3 +36,12 @@ The Fixed Market App is a financial utility application built to help users perf
 3.Provide the required inputs based on the selected calculation.
 
 4.View the calculated results and any relevant details.
+
+## Screenshots
+
+![MainWindow](https://github.com/GhaziDhouafli/FixedMarketApp/assets/103439643/81979973-8479-4d32-bc8c-14d6103fa448)
+
+![2nd](https://github.com/GhaziDhouafli/FixedMarketApp/assets/103439643/5cfd5d70-b806-4177-b787-39ff6a3d827a)
+
+
+
